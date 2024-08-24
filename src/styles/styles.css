@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800;900&display=swap');
+
+* {
+    font-family: 'Poppins', sans-serif;
+    /* property allows us to include the padding and border in an element's total width and height */
+    box-sizing: border-box;
+    /* reset */
+    margin: 0;
+    padding: 0;
+    font-weight: 300;
+}
+
+/* Home Page */
+
+/* === Hero Section === */
+
+.text_hero_desc {
+    width: 480px;
+}
+
+/* === Hero Section === */
+
+
